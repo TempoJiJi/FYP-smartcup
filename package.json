@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_restful",
+  "version": "1.0.0",
+  "description": "lalala",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node server.js"
+  },
+  "author": "tundergod",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^9.0.2"
+  },
+  "dependencies": {
+    "request-ip": "^2.0.1"
+  }
+}

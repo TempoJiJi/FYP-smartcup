@@ -1,0 +1,7 @@
+{
+    "beaconID" : "003",
+    "UUID" : "iamuuid",
+    "major" : "iammajor",
+    "minor" : "iamminor",
+    "TXPower" : "iamtxpower"
+}
